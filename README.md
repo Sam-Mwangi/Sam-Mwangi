@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with full-stack project
 - 💬 Ask me about Software Development
 <!-- - 📫 How to reach me: ... 
-- 😄 Pronouns: Him/His
 - ⚡ Fun fact: ...
  -->
