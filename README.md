@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning software development
 - 👯 I’m looking to collaborate on front-end projects
 - 🤔 I’m looking for help with full-stack project
-- 💬 Ask me about Software Development
+- 💬 Ask me about web Development
 <!-- - 📫 How to reach me: ... 
 - ⚡ Fun fact: ...
  -->
